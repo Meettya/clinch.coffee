@@ -1,5 +1,5 @@
-[![Dependency Status](https://gemnasium.com/Meettya/clinch.coffee.png)](https://gemnasium.com/Meettya/clinch.coffee)
-[![Build Status](https://travis-ci.org/Meettya/clinch.coffee.png?branch=master)](https://travis-ci.org/Meettya/clinch.coffee)
+[![Dependency Status](https://gemnasium.com/Meettya/clinch.coffee.svg)](https://gemnasium.com/Meettya/clinch.coffee)
+[![Build Status](https://travis-ci.org/Meettya/clinch.coffee.svg?branch=master)](https://travis-ci.org/Meettya/clinch.coffee)
 
 # clinch.coffee
 
