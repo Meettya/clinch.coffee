@@ -1,6 +1,6 @@
 {
   "name": "clinch.coffee",
-  "version": "0.0.3",
+  "version": "1.9.1",
   "description": "CoffeeScript processor for Clinch",
   "main": "./lib/addon",
   "scripts": {
